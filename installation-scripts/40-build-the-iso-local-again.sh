@@ -26,10 +26,10 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="wmderland"
-	dmDesktop="wmderland"
+	desktop="leftwm"
+	dmDesktop="leftwm"
 
-	arcolinuxVersion='v21.11.1'
+	arcolinuxVersion='v21.11.02'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
