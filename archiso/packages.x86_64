@@ -793,7 +793,7 @@ arcolinux-sddm-sugar-candy-git
 #                         PICOM OR COMPTON
 ###########################################################################
 
-picom
+#picom
 
 ###########################################################################
 #                         GENERAL DESKTOP RELATED
@@ -917,3 +917,6 @@ leftwm
 leftwm-theme-git
 sxhkd
 autorandr
+dunst
+picom-ibhagwan-git
+nerd-fonts-source-code-pro
