@@ -437,8 +437,8 @@ bibata-cursor-theme-bin
 #xcursor-vanilla-dmz-aa
 
 ###fonts
-ttf-font-awesome
-ttf-ms-fonts
+#ttf-font-awesome
+#ttf-ms-fonts
 
 ###icons
 #faba-icon-theme-git
@@ -448,8 +448,8 @@ ttf-ms-fonts
 #numix-icon-theme-git
 #numix-circle-icon-theme-git
 #paper-icon-theme
-sardi-icons
-surfn-icons-git
+#sardi-icons
+#surfn-icons-git
 #surfn-arc-breeze-icons-git
 #zafiro-icon-theme
 
@@ -462,8 +462,8 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-archiso
-conky-lua-archers
+#archiso
+#conky-lua-archers
 downgrade
 #font-manager-git
 #glxinfo
@@ -544,7 +544,7 @@ arcolinux-local-xfce4-git
 #arcolinux-logout-themes-git
 #arcolinux-lxqt-applications-add-git
 #arcolinux-lxqt-applications-hide-git
-arcolinux-meta-logout
+#arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
 arcolinux-nitrogen-git
@@ -796,7 +796,7 @@ arcolinux-sddm-simplicity-git
 #                         PICOM OR COMPTON
 ###########################################################################
 
-#picom
+picom
 
 ###########################################################################
 #                         GENERAL DESKTOP RELATED
@@ -920,6 +920,6 @@ leftwm
 leftwm-theme-git
 sxhkd
 autorandr
-dunst
-picom-ibhagwan-git
+#dunst
+#picom-ibhagwan-git
 nerd-fonts-source-code-pro
