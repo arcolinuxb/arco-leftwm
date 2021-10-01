@@ -463,7 +463,7 @@ mkinitcpio-openswap
 alacritty
 appstream
 #archiso
-#conky-lua-archers
+conky-lua-archers
 downgrade
 #font-manager-git
 #glxinfo
@@ -923,3 +923,5 @@ autorandr
 #dunst
 #picom-ibhagwan-git
 nerd-fonts-source-code-pro
+lolcat
+ufetch-arco-git
