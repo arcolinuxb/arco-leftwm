@@ -920,8 +920,6 @@ leftwm
 leftwm-theme-git
 sxhkd
 autorandr
-#dunst
-#picom-ibhagwan-git
 nerd-fonts-source-code-pro
 lolcat
 ufetch-arco-git
