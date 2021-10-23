@@ -481,7 +481,7 @@ paru-bin
 #pulseaudio-equalizer-ladspa
 #pyakm
 python-pyparted
-#python-pywal
+python-pywal
 #scour
 #screenkey-git
 #sublime-text-4
