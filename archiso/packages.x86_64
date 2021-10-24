@@ -437,7 +437,7 @@ bibata-cursor-theme-bin
 #xcursor-vanilla-dmz-aa
 
 ###fonts
-#ttf-font-awesome
+ttf-font-awesome
 #ttf-ms-fonts
 
 ###icons
@@ -924,3 +924,8 @@ nerd-fonts-source-code-pro
 lolcat
 ufetch-arco-git
 arcolinux-wallpapers-candy-git
+#ttf-fantasque-sans-mono
+#ttf-iosevka-nerd
+ttf-material-design-iconic-font
+#ttf-meslo-nerd-font-powerlevel10k
+rofi-theme-fonts
