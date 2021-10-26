@@ -544,7 +544,7 @@ arcolinux-local-xfce4-git
 #arcolinux-logout-themes-git
 #arcolinux-lxqt-applications-add-git
 #arcolinux-lxqt-applications-hide-git
-#arcolinux-meta-logout
+arcolinux-meta-logout
 arcolinux-mirrorlist-git
 arcolinux-neofetch-git
 arcolinux-nitrogen-git
@@ -924,8 +924,8 @@ nerd-fonts-source-code-pro
 lolcat
 ufetch-arco-git
 arcolinux-wallpapers-candy-git
-#ttf-fantasque-sans-mono
-#ttf-iosevka-nerd
+ttf-fantasque-sans-mono
+ttf-iosevka-nerd
 ttf-material-design-iconic-font
-#ttf-meslo-nerd-font-powerlevel10k
+ttf-meslo-nerd-font-powerlevel10k
 rofi-theme-fonts
