@@ -382,7 +382,7 @@ playerctl
 polkit
 polkit-gnome
 #python2-dbus
-python2-xdg
+##python2-xdg
 #qt4
 qt5ct
 #qt5-styleplugins
@@ -924,7 +924,6 @@ nerd-fonts-source-code-pro
 lolcat
 ufetch-arco-git
 arcolinux-wallpapers-candy-git
-ttf-fantasque-sans-mono
 ttf-iosevka-nerd
 ttf-material-design-iconic-font
 ttf-meslo-nerd-font-powerlevel10k
