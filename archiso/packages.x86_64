@@ -464,8 +464,8 @@ mkinitcpio-openswap
 
 ###utilities-repo
 alacritty
-appstream
-#archiso
+appstreams
+archiso
 conky-lua-archers
 downgrade
 #font-manager-git
