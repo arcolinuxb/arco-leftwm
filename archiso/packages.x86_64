@@ -921,13 +921,13 @@ polybar
 #leftwm
 #leftwm-git
 leftwm-dev-git
-leftwm-theme-git
+leftwm-theme-dev-git
 sxhkd
 autorandr
-ttf-sourcecodepro-nerd
 lolcat
 ufetch-arco-git
 arcolinux-wallpapers-candy-git
+ttf-sourcecodepro-nerd
 ttf-iosevka-nerd
 ttf-material-design-iconic-font
 ttf-meslo-nerd-font-powerlevel10k
