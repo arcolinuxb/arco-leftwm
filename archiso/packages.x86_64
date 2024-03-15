@@ -457,7 +457,7 @@ neofetch
 #arcolinux-pamac-all
 #octopi
 #octopi-notifier-qt5
-pamac-aur
+#pamac-aur
 paru-bin
 #peek
 #pulseaudio-equalizer-ladspa
@@ -937,8 +937,8 @@ polybar
 
 #desktop specific leftwm
 #leftwm
-#leftwm-git
-leftwm-dev-git
+leftwm-git
+#leftwm-dev-git
 leftwm-theme-dev-git
 sxhkd
 autorandr
